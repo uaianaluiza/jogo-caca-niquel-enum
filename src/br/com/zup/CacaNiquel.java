@@ -21,5 +21,6 @@ public class CacaNiquel {
                 System.out.println(Categoria.ESTRELA.getDescricao());
             }
         }
+        System.out.println("Seus pontos - " + resultado);
     }
 }
